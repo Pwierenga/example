@@ -276,7 +276,7 @@ params:
   # any site text color. This is likely
   # unwanted behavior.
   #
-  # Default: `white`
+  # Default: "#0c0834"
   # STRING; `white`, `black`, or nothing
   headerTextColor: white
 
