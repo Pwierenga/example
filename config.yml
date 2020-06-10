@@ -213,9 +213,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  customTabs:
-    - name: Name
-      link: https://example.com
+  #customTabs:
+  #  - name: Name
+  #    link: https://example.com
 
 
 
