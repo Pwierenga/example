@@ -212,10 +212,9 @@ params:
   # Tabs on homepage
   # Uncomment to enable.
   #
-   Format:
+  # Format:
    customTabs:
-    -
-      name: Name
+    - name: Name
       link: https://example.com
 
 
@@ -250,7 +249,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#d0098d"
+  brand: "#0c0834"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
