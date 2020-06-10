@@ -170,7 +170,6 @@ params:
   # Default: `yearly`
   # STRING; `monthly`, `yearly`, `none`
   incidentHistoryFormat: "monthly"
-  disableIncidentHistory: true
 
   # Disable dark mode
   #
