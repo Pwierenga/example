@@ -213,10 +213,12 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
+   customTabs:
   #  -
-  #    name: Name
-  #    link: https://example.com
+      name: Name
+      link: https://example.com
+
+
 
   # Disable complex server-side
   # calculations that may impact
