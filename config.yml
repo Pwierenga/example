@@ -138,6 +138,8 @@ params:
     - name: Helpdesk
 #      description: 
       category: Webservers
+    - name: Mail verwerking
+      category: Mail servers
     - name: Dataverwerking
 #      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Database servers
@@ -151,8 +153,8 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 3:04 PM
-  shortDateFormat: 15:04 — Jan 2
+  dateFormat: 02-01-2006, 15:04:05
+  shortDateFormat: 15:04 — 02-01-2006
 
   # What header design should we use?
   #
