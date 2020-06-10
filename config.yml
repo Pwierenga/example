@@ -213,11 +213,18 @@ params:
   # Uncomment to enable.
   #
   # Format:
+<<<<<<< HEAD
   #customTabs:
   #  - name: Name
   #    link: https://example.com
 
 
+=======
+  # customTabs:
+  #  -
+  #    name: Name
+  #    link: https://example.com
+>>>>>>> parent of fc9173a... Link toegevoegd
 
   # Disable complex server-side
   # calculations that may impact
