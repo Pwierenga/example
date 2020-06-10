@@ -213,7 +213,7 @@ params:
   # Uncomment to enable.
   #
   # Format:
-   customTabs:
+  customTabs:
     - name: Name
       link: https://example.com
 
