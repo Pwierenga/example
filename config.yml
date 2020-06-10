@@ -212,9 +212,9 @@ params:
   # Tabs on homepage
   # Uncomment to enable.
   #
-  # Format:
+   Format:
    customTabs:
-  #  -
+    -
       name: Name
       link: https://example.com
 
