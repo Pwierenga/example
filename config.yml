@@ -133,19 +133,19 @@ params:
   systems:
     - name: Business intelligence
       category: Webservers
-      partial: layouts/partials/noLink.html
+#      partial: layouts/partials/noLink.html
     - name: Issue tracker
       category: Webservers
-      partial: layouts/partials/noLink.html
+#      partial: layouts/partials/noLink.html
     - name: Helpdesk
       category: Webservers
-      partial: layouts/partials/noLink.html
+#      partial: layouts/partials/noLink.html
     - name: Mail verwerking
       category: Mail servers
-      partial: layouts/partials/noLink.html
+#      partial: layouts/partials/noLink.html
     - name: Dataverwerking
       category: Database servers
-      partial: layouts/partials/noLink.html
+#      partial: layouts/partials/noLink.html
 
   # What date format to use?
   #
