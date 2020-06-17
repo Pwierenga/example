@@ -133,16 +133,19 @@ params:
   systems:
     - name: Business intelligence
       category: Webservers
+      partial: custom/htmlConfig
     - name: Issue tracker
       category: Webservers
+      partial: custom/htmlConfig
     - name: Helpdesk
-#      description: 
       category: Webservers
+      partial: custom/htmlConfig
     - name: Mail verwerking
       category: Mail servers
+      partial: custom/htmlConfig
     - name: Dataverwerking
-#      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Database servers
+      partial: custom/htmlConfig
 
   # What date format to use?
   #
